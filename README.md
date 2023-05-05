@@ -1,4 +1,4 @@
-# Pruena técnica de react junior trainee.
+# Prueba técnica de react junior trainee.
 
 APIs:
  - Facts Random: https://catfact.ninja/fact
